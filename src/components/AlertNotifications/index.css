@@ -1,0 +1,54 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: roboto;
+}
+.heading {
+  font-size: 20px;
+  font-weight: 500;
+}
+.icon1 {
+  color: #2dca73;
+  font-size: 30px;
+  margin-right: 20px;
+}
+.success {
+  color: #2dca73;
+}
+.icon2 {
+  color: #ff0b37;
+  font-size: 30px;
+  margin-right: 20px;
+}
+.error {
+  color: #ff0b37;
+}
+.icon3 {
+  color: #ffb800;
+  font-size: 30px;
+  margin-right: 20px;
+}
+.warning {
+  color: #ffb800;
+}
+.icon4 {
+  color: #0f81e0;
+  font-size: 30px;
+  margin-right: 20px;
+}
+.info {
+  color: #0f81e0;
+}
+.msg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.description {
+  color: #475569;
+  font-size: 18px;
+}
